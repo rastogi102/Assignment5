@@ -11,7 +11,7 @@ namespace ConAssignment5
         static void Main(string[] args)
         {
             string correctUsername = "admin";
-            string correctPassword = "pass123";
+            string correctPassword = "admin123";
             int attempts = 3;
 
             while (attempts > 0)
